@@ -9,3 +9,5 @@ A couple of years ago I crafted the following approach to life: What doesn't see
 - Web Development (lately)
 - Interactive Art Projects
 - the Best Coffee in Town (in my kitchen)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=torbenjost&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
