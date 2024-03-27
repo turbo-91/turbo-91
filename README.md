@@ -1,4 +1,4 @@
-# Friend, I welcome you to my page!
+# :ringed_planet: Friend, I welcome you to my page! :cyclone:
 
 ![Image from performance "Schweigen Schweigen Schweigen](./images/mikado_small.png)
 
