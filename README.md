@@ -1,6 +1,6 @@
-# :ringed_planet: Friend, I welcome you to my page! :cyclone:
+![Header image](./images/mikado_small.png)
 
-![Image from performance "Schweigen Schweigen Schweigen](./images/mikado_small.png)
+# :ringed_planet: Friend, I welcome you to my page! :cyclone:
 
 A couple of years ago I crafted the following approach to life: _What doesn't seem ambivalent needs further examination._ It seems to me that this should make a quite suitable motto for learning how to code as well.
 
