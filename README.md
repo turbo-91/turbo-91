@@ -10,7 +10,7 @@ A couple of years ago I crafted the following approach to life:
 
 It seems to me that this should make a quite suitable motto for learning how to code as well.
 
-## I deal with
+## :boom: I deal with
 
 - Web Development (lately) :magic_wand:
 - Interactive Art Projects :slot_machine:
