@@ -4,3 +4,8 @@ A couple of years ago I crafted the following approach to life: What doesn't see
 
 ![Image from performance "Schweigen Schweigen Schweigen](./images/mikado.jpg)
 
+## I deal with
+
+- Web Development (lately)
+- Interactive Art Projects
+- the Best Coffee in Town (in my kitchen)
