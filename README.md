@@ -1,4 +1,4 @@
-![Header image](./images/mikado_small.png)
+![Header image](./images/mikado_header.png)
 
 # :ringed_planet: Friend, I welcome you to my page! :cyclone:
 
