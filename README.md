@@ -2,7 +2,7 @@
 
 # :ringed_planet: Friend, I welcome you to my page! :cyclone:
 
-A couple of years ago I crafted the following approach to life: 
+A couple of years ago I came up with the following approach to life for me: 
 
 
 >What does not seem ambivalent needs further examination.
