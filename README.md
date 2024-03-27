@@ -16,6 +16,6 @@ It seems to me that this should make a quite suitable motto for learning how to 
 - Interactive Art Projects :slot_machine:
 - the Best Coffee in Town (in my kitchen) :coffee:
 
-## :dvd: Check below for your occasional house music banger. You're welcome.
+## :dvd: Check below for your occasional house music banger. You're welcome. :nail_care:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=torbenjost&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
