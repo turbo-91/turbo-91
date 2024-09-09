@@ -18,4 +18,5 @@ It seems to me that this should make a quite suitable motto for learning how to 
 
 ## :dvd: Check below for your occasional (house) music banger. You're welcome. :nail_care:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=torbenjost&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turbo-91&show_icons=true&bg_color=00000000)
+
