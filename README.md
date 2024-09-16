@@ -2,6 +2,8 @@
 
 Creative and versatile Web Developer with a unique blend of **technical and creative skills**. Strong skills in **interdisciplinary collaboration**, **analytical thinking**, and UX/UI design, demonstrated through diverse freelance and project-based roles.
 
+🔭 I’m currently working on a workout planner app.
+
 ### Tech-Stack
 
 **Front-End**
