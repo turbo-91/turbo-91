@@ -5,25 +5,11 @@ Creative and versatile Web Developer with a unique blend of **technical and crea
 ### Tech-Stack
 
 **Front-End**
-HTML
-CSS
-JavaScript
-ECMAScript
-React
-Next.js
-UX/UI Basics
+HTML - CSS - JavaScript - ECMAScript - React - Next.js - UX/UI Basics
 
 **Back-End**
-Node.js
-MongoDB
-RESTful APIs
-Custom API
-Async Programming
+Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
 
 **Development Tools**
-Git
-VS Code
-Shell
-Vercel
+Git - VS Code - Shell - Vercel
 
-### Contact me!
