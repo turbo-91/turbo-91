@@ -1,22 +1,29 @@
-![Header image](./images/mikado_header.png)
+# Torben Jost :raising_hand:👨‍💻
 
-# :ringed_planet: Friend, I welcome you to my page! :cyclone:
+Creative and versatile Web Developer with a unique blend of **technical and creative skills**. Strong skills in **interdisciplinary collaboration**, **analytical thinking**, and UX/UI design, demonstrated through diverse freelance and project-based roles.
 
-A couple of years ago I came up with the following approach to life for me: 
+### Tech-Stack
 
+**Front-End**
+HTML
+CSS
+JavaScript
+ECMAScript
+React
+Next.js
+UX/UI Basics
 
->What does not seem ambivalent needs further examination.
+**Back-End**
+Node.js
+MongoDB
+RESTful APIs
+Custom API
+Async Programming
 
+**Development Tools**
+Git
+VS Code
+Shell
+Vercel
 
-It seems to me that this should make a quite suitable motto for learning how to code as well.
-
-## :boom: I deal with
-
-- Web Development (lately) :magic_wand:
-- Interactive Art Projects :slot_machine:
-- the Best Coffee in Town (in my kitchen) :coffee:
-
-## :dvd: Check below for your occasional (house) music banger. You're welcome. :nail_care:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turbo-91&show_icons=true&bg_color=00000000)
-
+### Contact me!
