@@ -8,8 +8,8 @@ Creative and versatile Web Developer with a unique blend of **technical and crea
 HTML - CSS - JavaScript - ECMAScript - React - Next.js - UX/UI Basics
 
 **Back-End**
-Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
+Java - Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
 
 **Development Tools**
-Git - VS Code - Shell - Vercel
+Git - VS Code - IntelliJ - Shell - Vercel
 
