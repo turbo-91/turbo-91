@@ -1,6 +1,6 @@
 # Torben Jost :raising_hand:👨‍💻
 
-Creative and versatile Web Developer with a unique blend of **technical and creative skills**. Strong skills in **interdisciplinary collaboration**, **analytical thinking**, and UX/UI design, demonstrated through diverse freelance and project-based roles.
+With my background in visual arts I'm a Web Developer blending **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but having a little weakness for (UX/UI) design. 
 
 ### Tech-Stack
 
