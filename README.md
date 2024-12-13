@@ -5,7 +5,7 @@ Creative and versatile Web Developer with a unique blend of **technical and crea
 ### Tech-Stack
 
 **Front-End**
-HTML - CSS - JavaScript - ECMAScript - React - Next.js - UX/UI Basics
+HTML - CSS - JavaScript - ECMAScript - React - Next.js 
 
 **Back-End**
 Java - Spring - Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
