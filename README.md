@@ -1,6 +1,6 @@
 # Torben Jost :raising_hand:👨‍💻
 
-With my background in visual arts I'm a Web Developer blending **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but having a little weakness for (UX/UI) design. 
+With my background in visual arts, I'm a Web Developer blending **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but have a little weakness for (UX/UI) design. 
 
 ### Tech-Stack
 
