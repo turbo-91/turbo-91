@@ -5,7 +5,7 @@ With my background in visual arts, I'm a Web Developer blending **technical and 
 ### Tech-Stack
 
 **Front-End**
-HTML - CSS - JavaScript - ECMAScript - React - Next.js 
+HTML - CSS - JavaScript - ECMAScript - Typescript - React - Next.js 
 
 **Back-End**
 Java - Spring - Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
