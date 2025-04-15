@@ -1,15 +1,21 @@
-# Torben Jost :raising_hand:👨‍💻
+# Hi, Torben Jost here! :raising_hand:👨‍💻
 
-With my background in visual arts, I'm a Web Developer blending **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but have a little weakness for (UX/UI) design. 
+With my background in visual arts, I'm a Web Developer who merges **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but have a little soft spot for all things UX/UI design. To put all this on a solid technological foundation I recently completed immersive bootcamps in **Java** and **Web Development**.
 
 ### Tech-Stack
 
-**Front-End**
-HTML - CSS - JavaScript - ECMAScript - Typescript - React - Next.js 
+**Frontend**  
+HTML • CSS • JavaScript (ES6+) • TypeScript • React • Next.js
 
-**Back-End**
-Java - Spring - Node.js - MongoDB - RESTful APIs - Custom API - Async Programming
+**Backend**  
+Java • Spring Boot • Node.js • MongoDB • RESTful APIs • Async Programming
 
-**Development Tools**
-Git - VS Code - IntelliJ - Shell - Vercel
+**Tools**  
+Git • VS Code • IntelliJ • Shell • Vercel
 
+### Featured Projects
+Feel free to explore my pinned projects below — a mix of:
+- **Java + Spring Boot + React** apps  
+- **Next.js full-stack** applications.
+
+I am looking forward to hear from you 🌐  
