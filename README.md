@@ -13,7 +13,6 @@ Java • Spring Boot • Node.js • MongoDB • RESTful APIs • Async Programm
 **Tools**  
 Git • VS Code • IntelliJ • Shell • Vercel
 
-## Featured Projects
 Feel free to explore my pinned projects below — a mix of:
 - **Java + Spring Boot + React** apps  
 - **Next.js full-stack** applications.
