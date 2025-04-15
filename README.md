@@ -2,6 +2,8 @@
 
 With my background in visual arts, I'm a Web Developer who merges **technical and creative skills**. I embrace **interdisciplinary collaboration**, **analytical thinking**, and can't help but have a little soft spot for all things UX/UI design. To put all this on a solid technological foundation I recently completed immersive bootcamps in **Java** and **Web Development**.
 
+---
+
 ### Tech-Stack
 
 **Frontend**  
@@ -13,9 +15,13 @@ Java • Spring Boot • Node.js • MongoDB • RESTful APIs • Async Programm
 **Tools**  
 Git • VS Code • IntelliJ • Shell • Vercel
 
+---
+
 ### Featured Projects
 Feel free to explore my pinned projects below — a mix of:
 - **Java + Spring Boot + React** apps  
 - **Next.js full-stack** applications.
+
+---
 
 I am looking forward to hear from you 🌐  
