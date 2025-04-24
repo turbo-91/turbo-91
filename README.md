@@ -14,4 +14,6 @@ Git • VS Code • IntelliJ • Shell • Vercel
 
 Feel free to explore my pinned projects below — a mix of **Java + Spring Boot + React** apps and **Next.js full-stack** applications.
 
-**I am very much looking forward to hear from you 🌐**
+**Currently working on:**
+An application to manage the invitations to our wedding celebration.
+
