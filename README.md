@@ -13,5 +13,4 @@ Java • Spring Boot • Next.js • Node.js • MongoDB • RESTful APIs • As
 Git • Docker • GitHub Actions • VS Code • IntelliJ • Shell •  • Vercel
 
 **Currently working on:**
-A simple Shop Service and an application to manage the invitations to our wedding celebration.
-
+A full-stack (Java+ReactTS) workout tracker application to replace my endless iPhone notes file.
