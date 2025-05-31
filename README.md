@@ -13,4 +13,4 @@ Java • Spring Boot • Next.js • Node.js • MongoDB • RESTful APIs • As
 Git • Docker • GitHub Actions • VS Code • IntelliJ • Shell •  • Vercel
 
 **Currently working on:**
-A full-stack (Java+ReactTS) workout tracker application to replace my endless iPhone notes file.
+A Kotlin (Spring) + React (TypeScript) workout tracker replacing my ever-expanding iPhone notes file.
